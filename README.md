@@ -14,4 +14,4 @@ Projeto construído no evento Next Level Week da RocketSeat.
 
 ## Contato
 
-gabrieljues@hotmail.com
+gabrieljunes@hotmail.com
